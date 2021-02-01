@@ -9,7 +9,8 @@ const Home: React.FC = () => {
       </Head>
 
       <main>
-        <h1>Welcome to Logicl!</h1>
+        <h1>Welcome to Logicl! </h1>
+        <h1>Welcome to Logicl! </h1>
       </main>
     </div>
   )
